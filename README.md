@@ -5,4 +5,4 @@ web目录上传jar包RCE
 
 #Usage：
 python3 flink_exp.py -u url -f gshell.jar
-![image]()
+![image](https://github.com/gsheller/Flink_exp/blob/master/flink_exp.jpg)
